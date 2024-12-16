@@ -11,7 +11,7 @@ Then, take a 5 minute break. After that break, come back and try to solve the pr
 
 ## Software Development - Data Structure & Algorithm Questions
 
-Problem roadmap is sourced from here: https://neetcode.io/roadmap
+For the first 100 overall DS&A problems, problem sets will be sourced from here: https://neetcode.io/roadmap
 
 DSA concepts covered by these problems: **Intro to Two Pointers approach & More questions on Stack data structure**
 
